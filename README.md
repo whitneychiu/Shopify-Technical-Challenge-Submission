@@ -1,4 +1,4 @@
-# Shopify-Techinical-Challenge-Submission
+# Shopify-Technical-Challenge-Submission
 
 Question 1: Given some sample data, write a program to answer the following: 
 
