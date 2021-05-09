@@ -19,7 +19,7 @@ def explore_order_amount_distribution(df):
     boxplot = df.boxplot(column='order_amount')
     plt.show()
 
-def describe(df):
+def describe_order_amount(df):
     print(df.order_amount.describe())
 
 def main():
@@ -27,7 +27,7 @@ def main():
     get_total_revenue(df)
     get_aov(df)
     explore_order_amount_distribution(df)
-    describe(df)
+    describe_order_amount(df)
 
 if __name__ == "__main__":
     main()
