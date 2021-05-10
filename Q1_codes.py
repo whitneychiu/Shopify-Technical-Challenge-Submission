@@ -18,6 +18,7 @@ def get_total_revenue(df):
     """
     args:
         df (pandas.DataFrame): dataframe with order_amount
+        
     returns:
         integer: total revenue
     """
