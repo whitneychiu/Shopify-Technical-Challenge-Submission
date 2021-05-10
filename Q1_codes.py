@@ -29,6 +29,7 @@ def get_aov(df):
     """
     args:
         df (pandas.DataFrame): dataframe with order_amount
+        
     returns:
         integer: average order value
     """
